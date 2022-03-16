@@ -1,1 +1,1 @@
-Na atividade dessa semana, apliquei alguns conceitos apresentados na aula para desenvolver o arquivo "PerimeterAssignmentRunner.java", mas não o desenvolvi por completo, adicionei alguns métodos ao programa.
+Na atividade dessa semana, apliquei alguns conceitos apresentados na aula para desenvolver o arquivo "PerimeterAssignmentRunner.java", mas não o desenvolvi por completo, adicionei alguns métodos ao programa a partir de um arquivo base.
